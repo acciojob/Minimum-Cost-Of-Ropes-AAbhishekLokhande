@@ -29,6 +29,6 @@ function minCost(lengths) {
     }
 
     return totalCost;
-  
+} 
   
 }  
